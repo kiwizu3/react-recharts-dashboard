@@ -3,7 +3,7 @@
 
 Cool Dashboard is a React dashboard template. It is built using [Recharts](http://recharts.org/#/en-US/) and [reactstrap](https://reactstrap.github.io/) for Bootstrap 4 components.
 
-![alt text](https://github.com/dreamweaver220/react-recharts-dashboard/public/img/screenshot.png "Cool Dashboard")
+![alt text](https://github.com/dreamweaver220/react-recharts-dashboard/blob/master/public/img/screenshot.png "Cool Dashboard")
 
 ## Getting Started
 
